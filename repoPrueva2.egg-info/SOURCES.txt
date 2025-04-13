@@ -1,0 +1,7 @@
+README.md
+setup.py
+repoPrueva2/__init__.py
+repoPrueva2.egg-info/PKG-INFO
+repoPrueva2.egg-info/SOURCES.txt
+repoPrueva2.egg-info/dependency_links.txt
+repoPrueva2.egg-info/top_level.txt
